@@ -4,7 +4,7 @@
 - **`scrapy.cfg`**: Archivo de configuración de Scrapy.
 - **`items.py`**: Define las estructuras de datos para los elementos que se recopilarán durante el scraping.
 - **`middlewares.py`**: Contiene posibles middlewares para personalizar el comportamiento del scraping (no se utiliza actualmente en el proyecto).
-- **`pipelines.py`**: Define las pipelines para procesar los elementos recopilados (no se utiliza actualmente en el proyecto).
+- **`pipelines.py`**: Define las pipelines para procesar los elementos recopilados.
 - **`settings.py`**: Archivo de configuración del proyecto.
 - **`spiders/`**: Directorio que contiene los spiders para diferentes sitios web.
 
